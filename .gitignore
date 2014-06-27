@@ -1,0 +1,5 @@
+*.xcf
+*.tif
+*.tiff
+textures-large/
+textures-master/
